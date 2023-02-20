@@ -4,7 +4,7 @@
 
 This is the code to generate a README file using node.js. 
 
-![test image](\images\testImage.png)
+![test image](Develop/images/testImage.png)
 ## Installation
 
 Use npm to install inquire.
