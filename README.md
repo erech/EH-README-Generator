@@ -14,3 +14,7 @@ Use npm to install inquire.
 Clone this GitHub repository and run index.js with node. 
 Answer the questions to create your own personal README.md
 
+
+Refer to the video tutorial in images folder.
+
+
